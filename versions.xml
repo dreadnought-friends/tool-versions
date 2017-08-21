@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
-    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.1.1">
+    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.2.0">
         <motd title="Message of the Day">
             <body>
 <![CDATA[
 Do you experience one or more of the following issues?
 
-* in-game chat not working and/or gradually getting worse for users
-* disconnection from server
+* in-game chat not working and/or gradually getting worse
+* disconnects from the server
 * slate crash during transition into match (infinite loading)
 * client locking mid match, yet the audio still persists as if the match is still being played
 * not being given the option to rejoin matches
 * spawning under the map
 
-The development team asked us to provide your region, internet speed and the files this tool collects to the support group as they are having a team working on those issues RIGHT now!]]>
+The development team asked to provide your region, internet speed and the files this tool collects to customer support as they are having a team working on those issues RIGHT now!]]>
             </body>
         </motd>
     </Tool>
