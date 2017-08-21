@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
     <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.1.1">
-		<motd title="Test Title">
-			<body><![CDATA[
-				Test
-				Body
-			]]>
-			</body>
-		</motd>
-	</Tool>
+        <motd title="Test Title">
+            <body><![CDATA[
+                Test
+                Body]]>
+            </body>
+        </motd>
+    </Tool>
 </Tools>
