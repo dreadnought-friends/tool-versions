@@ -4,16 +4,20 @@
         <motd title="Message of the Day">
             <body>
 <![CDATA[
-Do you experience one or more of the following issues?
+Hello Captains! An incoming transmission from DN_Nafie, you can reach her on Discord.
 
-* in-game chat not working and/or gradually getting worse
-* disconnects from the server
-* slate crash during transition into match (infinite loading)
-* client locking mid match, yet the audio still persists as if the match is still being played
-* not being given the option to rejoin matches
-* spawning under the map
+I'm sending out a request for players to send me client logs and number of occurences for attempts that players try to connect to a match (and subsequently crash/disconnect/get kicked back to hangar).
 
-The development team asked to provide your region, internet speed and the files this tool collects to customer support as they are having a team working on those issues RIGHT now!]]>
+When you message me your logs, please note:
+- What was the estimated time that your issue occurred?
+- Where were you in the game when this occurred? (Loading screen, orbit, in match, hangar, etc.)
+- What is your geographical location? (Country is fine!)
+- How many times did this issue occur?
+
+END TRANSMISSION.
+
+1.8.1 is released: https://www.greybox.com/dreadnought/en/news/pc-patch-181-balance-changes-and-big-rebel-yell/
+]]>
             </body>
         </motd>
     </Tool>
