@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
     <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.3.0">
-        <motd title="IMPORTANT NOTICE!">
+        <motd title="Message of the Day">
             <body>
 <![CDATA[
-Message from DN_DivumVexillum: 
-
-All Houston Devs will likely be unreachable at some points during or for the duration of Hurricane Harvey. This includes Customer Support, so please be mindful and bear with us. Thank you.
-
-===
-
-New in tool version 2.3.0:
+Changelog 2.3.0:
  - Added a ping and tracert for known servers
-
-===
-
-Message from DN_Nafie:
-
-I'm sending out a request for players to send me client logs and number of occurences for attempts that players try to connect to a match (and subsequently crash/disconnect/get kicked back to hangar).
-
-When you message me your logs, please note:
-- What was the estimated time that your issue occurred?
-- Where were you in the game when this occurred? (Loading screen, orbit, in match, hangar, etc.)
-- What is your geographical location? (Country is fine!)
-- How many times did this issue occur?
 ]]>
             </body>
         </motd>
