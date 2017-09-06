@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
-    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.3.0">
+    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.4.0">
         <motd title="Message of the Day">
             <body>
 <![CDATA[
-Changelog 2.3.0:
- - Added a ping and tracert for known servers
+Release Summary 2.4.0:
+ - Enhanced the ping features. The ping to the game server will be shown in the top right of the support tool.
+ - Changing how the pinging works internally after adding it in 2.3.0, allowing it to work a lot faster than before.
+ - The game server IP addresses are now guessed based on the client logs, allow a more dynamic pinging.
 ]]>
             </body>
         </motd>
