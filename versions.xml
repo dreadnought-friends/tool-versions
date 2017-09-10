@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
-    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.4.0">
+    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.5.0">
         <motd title="Message of the Day">
             <body>
 <![CDATA[
-Release Summary 2.4.0:
- - Enhanced the ping features. The ping to the game server will be shown in the top right of the support tool.
- - Changing how the pinging works internally after adding it in 2.3.0, allowing it to work a lot faster than before.
- - The game server IP addresses are now guessed based on the client logs, allow a more dynamic pinging.
+Release Summary 2.5.0:
+ - The ping displayed in the UI is now pinging every 2 instead of 6 seconds
+ - Game settings can now be collected as well
+ - Added a link to the new documentation under 'Help'
+ - Added an option to reload the message of the day under 'Help'
 ]]>
             </body>
         </motd>
