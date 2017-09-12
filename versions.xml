@@ -4,6 +4,12 @@
         <motd title="Message of the Day">
             <body>
 <![CDATA[
+Not receiving the Experience awarded at the end of the match? Contact DN_Zeuxis on Discord and give him the following information:
+ - A screenshot of the reward screen
+ - A screenshot of the experience on the ship, after the match
+ - If possible, a screenshot of before the match
+ - The date and time it happened at 
+
 Release Summary 2.5.0:
  - The ping displayed in the UI is now pinging every 2 instead of 6 seconds
  - Game settings can now be collected as well
