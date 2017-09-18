@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
-    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.6.0">
+    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.6.1">
         <motd title="Message of the Day">
             <body>
 <![CDATA[
@@ -10,8 +10,9 @@ Not receiving the Experience awarded at the end of the match? Contact DN_Zeuxis 
  - If possible, a screenshot of before the match
  - The date and time it happened at 
 
-Release Summary 2.6.0:
+Release Summary 2.6.1:
  - Added a tool that allows switching the modules to Azerty keys instead of the default of Qwerty
+ - Fixed a bug that would cause the menu icons to render at abnormal sizes for some people
 ]]>
             </body>
         </motd>
