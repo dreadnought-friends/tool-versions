@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
-    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.5.0">
+    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.6.0">
         <motd title="Message of the Day">
             <body>
 <![CDATA[
@@ -10,11 +10,8 @@ Not receiving the Experience awarded at the end of the match? Contact DN_Zeuxis 
  - If possible, a screenshot of before the match
  - The date and time it happened at 
 
-Release Summary 2.5.0:
- - The ping displayed in the UI is now pinging every 2 instead of 6 seconds
- - Game settings can now be collected as well
- - Added a link to the new documentation under 'Help'
- - Added an option to reload the message of the day under 'Help'
+Release Summary 2.6.0:
+ - Added a tool that allows switching the modules to Azerty keys instead of the default of Qwerty
 ]]>
             </body>
         </motd>
