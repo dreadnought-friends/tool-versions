@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
     <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.6.1">
-        <motd title="Message of the Day">
+        <motd title="Message from the Dreadnought Discord">
             <body>
 <![CDATA[
-Not receiving the Experience awarded at the end of the match? Contact DN_Zeuxis on Discord and give him the following information:
- - A screenshot of the reward screen
- - A screenshot of the experience on the ship, after the match
- - If possible, a screenshot of before the match
- - The date and time it happened at 
+Experiencing a bug?
+Remember to submit it to the in-game bug reporter and then let the Discord Mod Team know by also filling out this form: https://goo.gl/3eBE12
+
+Want to help track the severity of bugs?
+Go vote in #known-bugs! Check the pinned message for how to vote! We will be putting out a new batch of bugs to vote on nightly around 7PM CST.
+
+--
 
 Release Summary 2.6.1:
  - Added a tool that allows switching the modules to Azerty keys instead of the default of Qwerty
