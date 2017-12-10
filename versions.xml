@@ -4,11 +4,10 @@
         <motd title="Message from the Dreadnought Discord">
             <body>
 <![CDATA[
-Experiencing a bug?
-Remember to submit it to the in-game bug reporter and then let the Discord Mod Team know by also filling out this form: https://goo.gl/3eBE12
+Help QA Track Down This Bug!
+Nafie is looking for logs relating to a bug that causes the game to hang when both teams are close to winning (96/96, etc) and players either receive a crash or are booted back to hangar unexpectedly, completely skipping the end of match screen.
 
-Want to help track the severity of bugs?
-Go vote in #known-bugs! Check the pinned message for how to vote! We will be putting out a new batch of bugs to vote on nightly around 7PM CST.
+If you are experiencing this bug please contact DN_Nafie#5673 (Discord) to send her your logs!
 
 --
 
