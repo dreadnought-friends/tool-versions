@@ -4,13 +4,6 @@
         <motd title="Message from the Dreadnought Discord">
             <body>
 <![CDATA[
-Help QA Track Down This Bug!
-Nafie is looking for logs relating to a bug that causes the game to hang when both teams are close to winning (96/96, etc) and players either receive a crash or are booted back to hangar unexpectedly, completely skipping the end of match screen.
-
-If you are experiencing this bug please contact DN_Nafie#5673 (Discord) to send her your logs!
-
---
-
 Release Summary 2.6.1:
  - Added a tool that allows switching the modules to Azerty keys instead of the default of Qwerty
  - Fixed a bug that would cause the menu icons to render at abnormal sizes for some people
