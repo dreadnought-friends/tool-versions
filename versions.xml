@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tools>
-    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.8.0">
+    <Tool Name="support-tool" ReleasePage="https://github.com/dreadnought-friends/support-tool/releases" Latest="2.8.1">
         <primaryIp>172.86.100.102</primaryIp>
         <motd title="Message of the Day">
             <body>
 <![CDATA[
+Release Summary 2.8.1:
+ - Fixed an issue where the trace route would cause the ping information to hang indefinitely
+ - Fixed the "Unknown" issue regarding the ping in the UI
+
 Release Summary 2.8.0:
  - Added the ability to export collected ping results as CSV and will also be added to the ZIP archive
  - Removed the very first version of this tool, which was written in batch, as it was still roaming around in this repository
