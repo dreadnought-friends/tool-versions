@@ -20,5 +20,9 @@ Release Summary 2.7.0:
 ]]>
             </body>
         </motd>
+		<settings>
+		    <setting key="HostDeveloper">Enabled</setting>
+		    <setting key="ChangeInstallationDirectory">Enabled</setting>
+		</settings>
     </Tool>
 </Tools>
