@@ -5,6 +5,12 @@
         <motd title="Message of the Day">
             <body>
 <![CDATA[
+DREADNOUGHT IS LIVE ON STEAM!
+https://store.steampowered.com/app/835860/Dreadnought/
+
+If you encounter any issues with this support tool, please ping @Anyone#8869 on Discord.
+
+
 Release Summary 2.9.0:
  - Prepared the tool for the steam launch
  - Prevent issue gathering information related to the launcher and changing the installation directory after the steam release
