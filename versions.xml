@@ -22,8 +22,8 @@ Release Summary 2.8.0:
             </body>
         </motd>
 		<settings>
-		    <setting key="HostDeveloper">Enabled</setting>
-		    <setting key="ChangeInstallationDirectory">Enabled</setting>
+		    <setting key="HostDeveloper">Disabled</setting>
+		    <setting key="ChangeInstallationDirectory">Disabled</setting>
 		</settings>
     </Tool>
 </Tools>
